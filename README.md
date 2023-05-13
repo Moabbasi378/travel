@@ -10,26 +10,13 @@ Best Eats is a food shop project built with React that allows users to browse th
 
 1. Clone the repository to your local machine.
 2. Install dependencies by running npm install.
-3. Start the JSON Server by running npm run server.
-4. Start the React app by running npm start.
-
-# Usage
-
-Once the app is running, you can browse through different food items on the home page, add them to your cart, and place orders. The app will store the order information in the server's database.
+3. Start the React app by running npm start.
+   e.
 
 # Screenshots
 
-### Homepage
-
-![Homepage screenshot](./public/images/home.png "Homepage")
-
-### Profile
-
-![profile screenshot](./public/images/profile.png "profile")
-
-### cart
-
-![cartpage screenshot](./public/images/cart.png "cart")
+![Homepage screenshot](./public/images%20/1.png "Homepage")
+![Homepage screenshot](./public/images%20/2.png "Homepage")
 
 # Contributing
 
